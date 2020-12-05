@@ -7,8 +7,8 @@ import screenshot from './components/screenshot';
 function App() {
   return(
          <div className="body">
-      <h1>React-Canvas-Draw</h1>
-      <h3>A simple yet powerful canvas-drawing component for React</h3>
+      <h1>LET'S HAVE THE CANVAS </h1>
+      <h3>A simple canvas-drawing using ReactJS</h3>
   
   <Canvas />
 
